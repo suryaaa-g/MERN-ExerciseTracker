@@ -8,7 +8,7 @@
   <h3 align="center">Exercise Tracker App</h3>
   <div align="center">
     
-    <br />
+  
   </div>
 </div>
 
