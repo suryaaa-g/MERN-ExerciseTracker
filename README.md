@@ -2,7 +2,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/suryaaa-g/MERN-exerciseTracker">
-    <img src="public/images/icon.png" alt="Instagram" width="80" height="80">
+   
   </a>
 
   <h3 align="center">Exercise Tracker App</h3>
