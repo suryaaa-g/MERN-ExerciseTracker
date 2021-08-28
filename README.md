@@ -25,18 +25,7 @@
       </ul>
     </li>
     <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgements">Acknowledgements</a></li>
+   
   </ol>
 </details>
 
@@ -45,7 +34,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-A Web Application designed to help a group of friends track their workouts and developed to learn full stack development
+A Web Application designed to help people keep track of their workouts. Developed to learn the MERN stack. 
 
 Details:
 * Developed based on the [FreeCodeCamp Mern Stack Tutorial](https://www.youtube.com/watch?v=7CqJlxBYj-M&t=3614s) tutorial
@@ -60,16 +49,6 @@ This section should list any major frameworks that you built your project using.
 * [Express](https://expressjs.com/)
 * [React]https://reactjs.org/)
 
-<!-- CONTRIBUTING -->
-## Contributing
-
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
 
 
 <!-- CONTACT -->
